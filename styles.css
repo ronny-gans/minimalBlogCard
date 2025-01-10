@@ -1,0 +1,60 @@
+html, body {
+    font-style: "Sora", serif;
+}
+/*wrapping container to align the children div (container) center*/
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    min-width: 100vw;
+}
+/*style container card*/
+.container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    border: 1px solid #FAFAF9;
+    max-width: 25%;
+    box-sizing: border-box;
+    box-shadow: 0.5rem 0.5rem 0.3rem rgba(229,234,240,0.4);
+}
+/*style content*/
+.content {
+    max-width: 100%;
+    padding: 1rem;
+    border-bottom: 1px solid rgba(229,234,240,0.8);
+}
+.description {
+    font-size: 0.875rem;
+    margin: 0;
+}
+h1 {
+    font-size: 1.125rem;
+    color: #20293A
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+/*style purple tag*/
+.inside-rectangle {
+    max-height: 3.5rem;
+    width:4rem;
+    background-color: #F2EAFD;
+    border-radius: 35px;
+}
+.inside-rectangle p {
+    text-align: center;
+    color: #7C19EE;
+    font-size: 0.625rem;
+    font-weight: bold;
+}
+p {
+    color: #394150
+}
+.footer {
+    padding: 1rem;
+    font-size: 0.875rem;
+    margin: 0;
+}
